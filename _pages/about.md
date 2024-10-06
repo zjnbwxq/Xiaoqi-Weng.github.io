@@ -43,3 +43,6 @@ To further contribute to the Music Technology community, I have a [Zhihu](https:
 
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="zh_CN" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="xiaoqiweng" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/xiaoqiweng/zh-cn?trk=profile-badge">Xiaoqi Weng</a></div>
+              
