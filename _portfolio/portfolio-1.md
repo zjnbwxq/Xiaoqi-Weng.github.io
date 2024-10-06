@@ -1,6 +1,6 @@
 ---
 title: "Yunnan Don't Have Ocean"
-excerpt: "An Interactive Performance<br/>"
+excerpt: "An Interactive Performance<br/><img src='https://raw.githubusercontent.com/zjnbwxq/pictureLinks/master/yunnan.jpg'>"
 collection: portfolio
 ---
 

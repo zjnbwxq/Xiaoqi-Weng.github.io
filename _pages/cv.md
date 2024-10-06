@@ -9,16 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+
+[PDF Version](https://drive.google.com/file/d/1uG_zw4eD91SNjReGKrlJdwXKe-IfKLOK/view?usp=sharing)
+
+
 Education
 ======
-* 09/2022 – 07/2024 - Master of Music,  Royal Birmingham Conservatoire 
+* 09/2022 – 07/2024 - Master of Music,  Royal Birmingham Conservatoire      
     *Music Interaction and Synthesizer Sound Design under Minimalist Setup, Music Technology*
     * Classification: Distinction 
     * In-depth understanding and high-frequency work in large-scale orchestral and classical music recording from 2022 to 2024
     * Experience in analog equipment mixing and mastering tapes, application and innovative practice of interactive music audio programming tools such as MaxMSP/PureData, Arduino, etc.
     * Proficiency in analog consoles: RBC (SSL Dualities, SSL AWS, SSL Live)
 
-* 09/2018 – 06/2022 - Bachelor of Fine Arts, Sichuan Conservatory of Music 
+* 09/2018 – 06/2022 - Bachelor of Fine Arts, Sichuan Conservatory of Music      
     *Pop Music Performance and Production, Music Performance*
     * GPA: 79%
     * Proficiency in analog consoles: Neve 88R
@@ -89,4 +93,3 @@ Awards and Activities
     * Best Popularity Award, National Audition Ningbo Division Champion.
 
   
-
