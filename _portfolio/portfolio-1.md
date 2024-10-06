@@ -1,11 +1,14 @@
 ---
-title: "Yunnan Don't Have Ocean"
-excerpt: "An Interactive Performance<br/><img src='https://raw.githubusercontent.com/zjnbwxq/pictureLinks/master/yunnan.jpg'>"
+title: "Be My Guest----CrossOver"
+excerpt: "An 2D RPG Game<br/><img src='https://raw.githubusercontent.com/zjnbwxq/pictureLinks/master/yunnan.jpg'>"
 collection: portfolio
 ---
 
-This is a project that was completed using Reactivision, Pure Data, Reaper, and Touch designer. In this project, Reactivision was used as an OSC sender and the data was unpacked by Puredata through TUIOClient and converted into MIDI notes and CC signals. The obtained data was then sent to Reaper for improvisation using a sampler and VST instrument, while audio signals were also sent to Touch designer to generate VJ visuals, achieving the goal of audio-visual interaction. Yi ethnic minority folk tunes recorded in Yunnan, China were used in the project to reinforce the theme.
+"Be My Guest" is a 2D role-play strategy game where players play as Zhuo, a girl from an ancient hunting tribe, on a turn-based hunting adventure. The materials gained from hunting monsters are used both as weapons in combat and as ingredients to cook dishes that enhance Zhuo's abilities. As the game progresses, Zhuo reaches a town where she uses the ingredients to entertain friends, discovering their diets, lives, and stories through dinner conversations. Dishes carry human desires, emotions, and memories. In the cycle of hunting and partying, searing the flavors of memories, the lost homeland and the truth of the demonic flood are waiting to be revealed.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zwkSo5Sl8Ds?si=veP2nqMc-3zBIa-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Our itch.io page](https://gjmxcrossover.itch.io/be-my-guest)
 
-The project report can be found [here](https://drive.google.com/file/d/1GafYUio1uyKJCg1Q4zYdedkZ2zXvFVLo/view?usp=sharing)
+
+Play online is has some problems.
+<iframe src="https://stellular-pie-b30e83.netlify.app/" width="960" height="540" frameborder="0" allowfullscreen></iframe>
+
