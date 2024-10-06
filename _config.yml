@@ -12,22 +12,21 @@ title                    : "Xiaoqi's Homepage"
 title_separator          : "-"
 name                     : &name "Xiaoqi Weng"
 description              : &description "personal description"
-url                      : https://Xiaoqi-Weng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zjnbwxq.github.io/Xiaoqi-Weng.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zjnbwxq/Xiaoqi-Weng.github.io"
+repository               : "zjnbwxq.github.io/Xiaoqi-Weng.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.jpg"
+  avatar           : "images/profile1.jpg"
   name             : "Xiaoqi Weng"
   pronouns         : # "she/her"  
   bio              : "Audio Engineer, Sound Designer, Music Producer, Composer"
   location         : "Birmingham, UK"
   employer         : "Royal Birmingham Conservatoire(BCU)"
-  uri              : "https://www.bcu.ac.uk/conservatoire"
   email            : "zjnbwxq@gmail.com" 
 
   # Academic websites
@@ -43,7 +42,7 @@ author:
   linkedin         : "Xiaoqi Weng"
   soundcloud       : "zjnbwxq"
   youtube          : "trmaklesoundie"
-  zhihu            : "mell-weng"
+  zhihu            : "https://www.zhihu.com/people/mell-weng"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
