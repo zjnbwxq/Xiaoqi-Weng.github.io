@@ -21,7 +21,7 @@ repository               : "zjnbwxq.github.io/Xiaoqi-Weng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/profile.png"
+  avatar           : "https://raw.githubusercontent.com/zjnbwxq/pictureLinks/master/profile.png"
   name             : "Xiaoqi Weng"
   pronouns         : # "she/her"  
   bio              : "Audio Engineer, Sound Designer, Music Producer, Composer"
