@@ -14,7 +14,7 @@ redirect_from:
 
 👨‍💻 I am currently working on my team project: a 2D RPG Card Game"Be My Guest" [Check our itch page](https://gjmxcrossover.itch.io/bemyguest).
 
-🎯 I'm also looking for like-minded audio professionals to join my new project: creating a **screenless immersive role-playing game** for the visually impaired.
+🎯 I'm also looking for like-minded audio professionals to join my new project: creating a **screenless immersive role-playing game** for the visually impaired. [My Linkin](linkedin.com/in/xiaoqiweng)
 
 
 # Selected Experience
