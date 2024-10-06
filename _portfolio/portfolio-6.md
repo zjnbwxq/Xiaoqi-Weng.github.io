@@ -10,5 +10,5 @@ collection: portfolio
 
 
 Play online is has some problems.
-<iframe src="https://stellular-pie-b30e83.netlify.app/" width="960" height="540" frameborder="0" allowfullscreen></iframe>
+
 
