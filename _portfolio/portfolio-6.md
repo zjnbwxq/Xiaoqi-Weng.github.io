@@ -1,10 +1,14 @@
 ---
-title: "Pink Hair"
-excerpt: "To Remember My Friend Linghua<br/><img src='https://raw.githubusercontent.com/zjnbwxq/pictureLinks/master/Pink.png'>"
+title: "Be My Guest----CrossOver"
+excerpt: "An 2D RPG Game<br/><img src='https://raw.githubusercontent.com/zjnbwxq/pictureLinks/master/yunnan.jpg'>"
 collection: portfolio
 ---
 
-I wrote this piece for a friend of mine who died of cyberbullying. Before her death she was a very good piano teacher and was verbally abused by people online for dyeing her hair pink, among other reasons. She was about my age, and after knowing about it, I finally decided to write a solo piano piece for her after much thought. As a memorial only.
+"Be My Guest" is a 2D role-play strategy game where players play as Zhuo, a girl from an ancient hunting tribe, on a turn-based hunting adventure. The materials gained from hunting monsters are used both as weapons in combat and as ingredients to cook dishes that enhance Zhuo's abilities. As the game progresses, Zhuo reaches a town where she uses the ingredients to entertain friends, discovering their diets, lives, and stories through dinner conversations. Dishes carry human desires, emotions, and memories. In the cycle of hunting and partying, searing the flavors of memories, the lost homeland and the truth of the demonic flood are waiting to be revealed.
+
+[Our itch.io page](https://gjmxcrossover.itch.io/be-my-guest)
 
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1886423834%3Fsecret_token%3Ds-cZNgt1OpgoP&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/zjnbwxq" title="Makle_Tumbler" target="_blank" style="color: #cccccc; text-decoration: none;">Makle_Tumbler</a> · <a href="https://soundcloud.com/zjnbwxq/sets/pink-hair/s-cZNgt1OpgoP" title="Pink Hair" target="_blank" style="color: #cccccc; text-decoration: none;">Pink Hair</a></div>
+Play online is has some problems.
+<iframe src="https://stellular-pie-b30e83.netlify.app/" width="960" height="540" frameborder="0" allowfullscreen></iframe>
+
