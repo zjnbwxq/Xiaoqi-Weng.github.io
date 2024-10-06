@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 <meta name="google-site-verification" content="VQR0qnjDQxziQyFAhYne4s61y7Eq3y6eBwahuhZ5tQg" />
 ---
-
+<meta name="google-site-verification" content="VQR0qnjDQxziQyFAhYne4s61y7Eq3y6eBwahuhZ5tQg" /> 
 
 🏫 I recently graduated from RBC, major in Music Technology.
 
