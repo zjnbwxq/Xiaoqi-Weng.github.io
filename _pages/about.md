@@ -40,3 +40,6 @@ The findings of my research provided valuable insights into the relationship bet
 
 ## 📚 Community Contributions
 To further contribute to the Music Technology community, I have a [Zhihu](https://www.zhihu.com/people/mell-weng) page *where I publish educational content.* and a [Bilibili](https://space.bilibili.com/18668917?spm_id_from=333.337.0.0) channel *where I translate educational materials*.
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
