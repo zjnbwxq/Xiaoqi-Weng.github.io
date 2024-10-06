@@ -5,8 +5,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+<meta name="google-site-verification" content="VQR0qnjDQxziQyFAhYne4s61y7Eq3y6eBwahuhZ5tQg" />
 ---
- 
+<meta name="google-site-verification" content="VQR0qnjDQxziQyFAhYne4s61y7Eq3y6eBwahuhZ5tQg" /> 
+
 🏫 I recently graduated from RBC, major in Music Technology.
 
 🔬 My research interests include immersive audio, psychoacoustics, and multimodal machine learning.
