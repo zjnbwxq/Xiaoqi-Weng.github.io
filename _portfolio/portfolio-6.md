@@ -1,6 +1,6 @@
 ---
 title: "Be My Guest----CrossOver"
-excerpt: "An 2D RPG Game<br/><img src='https://raw.githubusercontent.com/zjnbwxq/pictureLinks/master/GNuF1m.jpg'>"
+excerpt: "An 2D RPG Game<br/>"
 collection: portfolio
 ---
 
