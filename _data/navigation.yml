@@ -5,23 +5,20 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+    url: /portfolio/     
     
   - title: "CV"
-    url: /cv/
+    url: /files/Weng_Xiaoqi_CV.pdf
     
-  - title: "Guide"
-    url: /markdown/
+
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=nr3E6yYAAAAJ&hl
+
+  #- title: "Talks"
+  #  url: /talks/    
+  #- title: "Teaching"
+  #  url: /teaching/    
+    
+  #- title: "Blog Posts"
+  #  url: /year-archive/  

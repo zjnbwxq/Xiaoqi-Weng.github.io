@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Yunnan Don't Have Ocean"
+excerpt: "An Interactive Performance<br/><img src='/images/yunnan.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is a project that was completed using Reactivision, Pure Data, Reaper, and Touch designer. In this project, Reactivision was used as an OSC sender and the data was unpacked by Puredata through TUIOClient and converted into MIDI notes and CC signals. The obtained data was then sent to Reaper for improvisation using a sampler and VST instrument, while audio signals were also sent to Touch designer to generate VJ visuals, achieving the goal of audio-visual interaction. Yi ethnic minority folk tunes recorded in Yunnan, China were used in the project to reinforce the theme.
+
+You can find the project [here]{https://www.youtube.com/watch?v=zwkSo5Sl8Ds&t=103s}
+The project report can be found [here]{files/Yunnan_Dont_Have_Ocean.pdf}
