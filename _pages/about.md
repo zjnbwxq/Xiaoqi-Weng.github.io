@@ -14,7 +14,7 @@ redirect_from:
 
 👨‍💻 I am currently working on my team project: a 2D RPG Card Game"Be My Guest" [Check our itch page](https://gjmxcrossover.itch.io/bemyguest).
 
-🎯 I'm also looking for like-minded audio professionals to join my new project: creating a **screenless immersive role-playing game** for the visually impaired. [My Linkin](linkedin.com/in/xiaoqiweng)
+🎯 I'm also looking for like-minded audio professionals to join my new project: creating a **screenless immersive role-playing game** for the visually impaired. 
 
 
 # Selected Experience
@@ -41,7 +41,7 @@ The findings of my research provided valuable insights into the relationship bet
 ## 📚 Community Contributions
 To further contribute to the Music Technology community, I have a [Zhihu](https://www.zhihu.com/people/mell-weng) page *where I publish educational content.* and a [Bilibili](https://space.bilibili.com/18668917?spm_id_from=333.337.0.0) channel *where I translate educational materials*.
 
-
+[My Linkin](linkedin.com/in/xiaoqiweng)
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <div class="badge-base LI-profile-badge" data-locale="zh_CN" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="xiaoqiweng" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/xiaoqiweng/zh-cn?trk=profile-badge">Xiaoqi Weng</a></div>
