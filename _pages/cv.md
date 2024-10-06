@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "CV"
+excerpt: <pdf src='https://drive.google.com/file/d/1uG_zw4eD91SNjReGKrlJdwXKe-IfKLOK/view?usp=sharing'>"
 permalink: /cv/
 author_profile: true
 redirect_from:
