@@ -9,7 +9,7 @@ main:
     url: /portfolio/     
     
   - title: "CV"
-    url: /files/Weng_Xiaoqi_CV.pdf
+    local_file: /files/Weng Xiaoqi CV.pdf
     
 
   - title: "Publications"

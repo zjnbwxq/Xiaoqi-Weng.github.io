@@ -21,18 +21,13 @@ repository               : "zjnbwxq.github.io/Xiaoqi-Weng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile1.jpg"
+  avatar           : "images/profile.jpg"
   name             : "Xiaoqi Weng"
   pronouns         : # "she/her"  
   bio              : "Audio Engineer, Sound Designer, Music Producer, Composer"
   location         : "Birmingham, UK"
   employer         : "Royal Birmingham Conservatoire(BCU)"
   email            : "zjnbwxq@gmail.com" 
-
-  # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=nr3E6yYAAAAJ&hl"
-  orcid            : "https://orcid.org/0009-0002-5316-3025"
-  researchgate     : "https://www.researchgate.net/profile/Xiaoqi-Weng-2"
 
   # Repositories and software development
   github           : "zjnbwxq"
@@ -43,6 +38,11 @@ author:
   soundcloud       : "zjnbwxq"
   youtube          : "trmaklesoundie"
   zhihu            : "https://www.zhihu.com/people/mell-weng"
+
+
+  # Academic websites
+  googlescholar    : "https://scholar.google.com/citations?user=nr3E6yYAAAAJ&hl"
+  orcid            : "https://orcid.org/0009-0002-5316-3025"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
