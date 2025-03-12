@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-🏫 I recently graduated from RBC, major in Music Technology.
+🏫 I am currently 1st year PHD student in Bournemouth University, Major in Computer Science.
 
 🔬 My research interests include immersive audio, psychoacoustics, and multimodal machine learning.
 
@@ -22,12 +22,12 @@ redirect_from:
 ## Works & Projects
 
 ### 🎼 Music Producer
-I have worked as a music producer for 6 years. Contributed to multiple projects including: [Still the Same Appearance](https://music.163.com/#/album?id=92041057) , [Chopsticks](https://music.163.com/#/song?id=1484710060) and a lot of concerts & live shows.
+I have worked as a music producer for 7 years. Contributed to multiple projects including: [Still the Same Appearance](https://music.163.com/#/album?id=92041057) , [Chopsticks](https://music.163.com/#/song?id=1484710060) and a lot of concerts & live shows.
 
 
 
 ### 🎮 Game Audio Engineer
-I have been working as an audio engineer for 3 years. Mostly working with 2D Games. Contributed in [Girl’s Wonderful Journey](https://www.gcores.com/games/125872), [Relignition](https://www.gcores.com/games/105435),[Listen](https://wanghai9963.itch.io/listen) and something else.
+I have been working as an audio engineer for 4 years. Mostly working with 2D Games. Contributed in [Girl’s Wonderful Journey](https://www.gcores.com/games/125872), [Relignition](https://www.gcores.com/games/105435),[Listen](https://wanghai9963.itch.io/listen) and something else.
 
 
 ### 📖 Novel Writer
