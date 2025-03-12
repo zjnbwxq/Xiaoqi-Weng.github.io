@@ -16,6 +16,9 @@ redirect_from:
 
 Education
 ======
+* 01/2025 - Now - Doctor of Philosophy, Bournemouth University
+    *Computer Science*
+  
 * 09/2022 – 07/2024 - Master of Music,  Royal Birmingham Conservatoire      
     *Music Interaction and Synthesizer Sound Design under Minimalist Setup, Music Technology*
     * Classification: Distinction 
