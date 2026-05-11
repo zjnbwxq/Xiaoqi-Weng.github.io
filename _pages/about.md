@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-🏫 I am currently 1st year PHD student in Bournemouth University, Major in Computer Science.
+🏫 I am currently 2nd year PHD student in Bournemouth University, Major in Computer Science.
 
 🔬 My research interests include immersive audio, psychoacoustics, and multimodal machine learning.
 
